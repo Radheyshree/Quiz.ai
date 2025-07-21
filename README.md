@@ -1,4 +1,4 @@
-# Quiz.ai
+
 # 🧠 Quiz.AI - AI-Powered Dynamic Quiz Platform
 
 <div align="center">
