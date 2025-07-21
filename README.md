@@ -9,10 +9,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0.0-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-AI%20Powered-4285F4?style=for-the-badge&logo=google)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-green?style=for-the-badge&logo=vercel)](https://quiz-ai-demo.vercel.app)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/quiz-ai?style=for-the-badge)](https://github.com/yourusername/quiz-ai)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
 *An intelligent, adaptive quiz platform that generates personalized questions using AI*
 
 </div>
@@ -220,7 +216,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -234,20 +230,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Contact & Support
-
-- **Project Link**: [https://github.com/yourusername/quiz-ai](https://github.com/yourusername/quiz-ai)
-- **Live Demo**: [https://quiz-ai-demo.vercel.app](https://quiz-ai-demo.vercel.app)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/quiz-ai/issues)
-
----
-
-<div align="center">
-
-**Made with ❤️ and ☕ by [Your Name]**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
